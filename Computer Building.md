@@ -1,4 +1,4 @@
-### Computer Building
+### Work, assignments and what's required of you.
 
 The first assignment you will be given here at the MGHPCC is to take apart a NUC minicomputer to install Memory, and a Solid State drive.
 Afterwards, you will have to install linux onto the NUC.
